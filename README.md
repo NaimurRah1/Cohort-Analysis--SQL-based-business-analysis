@@ -87,3 +87,14 @@ Tables imported into PostgreSQL:
 **Insight:** These customers represent successfully retained users and indicate effective engagement strategies.
 
 **Recommendation:** Focus on strengthening relationships with retained customers to improve long-term customer lifetime value.
+
+---
+
+## Cohort Analysis Query
+
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort6.jpeg)
+
+**Description:** This SQL query assigns customers to cohorts based on their first purchase month and tracks their activity across subsequent months.
+
+
+
