@@ -31,6 +31,7 @@ Python is used for data ingestion and table creation, while **PostgreSQL SQL que
 - **Python** – Data import & ETL
 - **PostgreSQL** – Database
 - **SQL** – Cohort, churn & retention analysis
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort3.jpeg)
 
 ---
 
