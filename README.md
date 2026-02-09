@@ -116,4 +116,34 @@ The line chart visualizes these retention trends, making it easy to compare coho
 
 > From the chart, it is easy to see how user retention evolves over time for each cohort, helping us identify trends and patterns in engagement.
 
+---
+
+# Customer Retention Analysis: Customers Active in ≥3 Months
+
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort8.jpeg)
+This analysis identifies **customers who returned and made purchases in at least 3 different months** within the first five months after their first order. It helps understand **loyalty and engagement trends**.
+
+---
+
+## Purpose
+- To track **repeat customers** over time.  
+- To identify customers showing **consistent engagement**.  
+- To provide actionable insights for **marketing campaigns, loyalty programs, or retention strategies**.
+
+---
+
+## SQL Query Breakdown
+
+The query is structured in **four main steps**:
+
+### 1. Identify the Cohort Month
+```sql
+with first_order as (
+    select 
+        customer_id,
+        date_trunc('month', min(order_date)) as cohort_month
+    from public.orders
+    where order_date >= date '2025-01-01'
+    group by 1
+)
 
