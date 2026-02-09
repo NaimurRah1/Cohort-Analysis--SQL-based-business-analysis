@@ -132,18 +132,3 @@ This analysis identifies **customers who returned and made purchases in at least
 
 ---
 
-## SQL Query Breakdown
-
-The query is structured in **four main steps**:
-
-### 1. Identify the Cohort Month
-```sql
-with first_order as (
-    select 
-        customer_id,
-        date_trunc('month', min(order_date)) as cohort_month
-    from public.orders
-    where order_date >= date '2025-01-01'
-    group by 1
-)
-
