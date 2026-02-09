@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/71ce9e8d-da23-436f-b183-f57b4072fb95" /># Cohort Analysis – SQL Based Analysis
+# Cohort Analysis – SQL Based Analysis
 
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
 ![SQL](https://img.shields.io/badge/Language-SQL-orange)
