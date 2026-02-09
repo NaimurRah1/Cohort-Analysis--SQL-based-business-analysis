@@ -1,4 +1,4 @@
-# Cohort Analysis – SQL Based Analysis
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/71ce9e8d-da23-436f-b183-f57b4072fb95" /># Cohort Analysis – SQL Based Analysis
 
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
 ![SQL](https://img.shields.io/badge/Language-SQL-orange)
@@ -6,6 +6,7 @@
 
 **Author:** Naimur Rahman  
 **Affiliation:** MSc, BSc – Jagannath University, Dhaka  
+
 ![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort1.jpeg)
 
 ---
@@ -23,6 +24,7 @@ Python is used for data ingestion and table creation, while **PostgreSQL SQL que
 - Identify churned customers
 - Identify loyal customers (active for 3+ months)
 - Support data-driven business decisions
+  
 ![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort2.jpeg)
 
 ---
@@ -31,6 +33,7 @@ Python is used for data ingestion and table creation, while **PostgreSQL SQL que
 - **Python** – Data import & ETL
 - **PostgreSQL** – Database
 - **SQL** – Cohort, churn & retention analysis
+
 ![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort3.jpeg)
 
 ---
@@ -49,6 +52,8 @@ Tables imported into PostgreSQL:
 📌 **Used for cohort analysis:**
 - `orders.customer_id`
 - `orders.order_date`
+
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort4.jpeg)
 
 ---
 
