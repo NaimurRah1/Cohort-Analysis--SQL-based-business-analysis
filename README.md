@@ -1,1 +1,70 @@
-# Cohort-Analysis--SQL-based-business-analysis
+# Cohort Analysis – SQL Based Analysis
+
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![SQL](https://img.shields.io/badge/Language-SQL-orange)
+![Python](https://img.shields.io/badge/ETL-Python-green)
+
+**Author:** Naimur Rahman  
+**Affiliation:** MSc, BSc – Jagannath University, Dhaka  
+
+---
+
+## 📌 Project Description
+This project demonstrates a **SQL-based cohort analysis** to understand **customer behavior over time**, focusing on **retention**, **churn**, and **customer loyalty**.
+
+Python is used for data ingestion and table creation, while **PostgreSQL SQL queries** are used for analysis.
+
+---
+
+## 🎯 Objectives
+- Create customer cohorts based on first purchase month
+- Measure customer retention over time
+- Identify churned customers
+- Identify loyal customers (active for 3+ months)
+- Support data-driven business decisions
+
+---
+
+## 🛠️ Tech Stack
+- **Python** – Data import & ETL
+- **PostgreSQL** – Database
+- **SQL** – Cohort, churn & retention analysis
+
+---
+
+## 🗂️ Dataset Overview
+Tables imported into PostgreSQL:
+- customers  
+- orders  
+- order_items  
+- products  
+- categories  
+- inventory  
+- marketing_campaigns  
+- stores  
+
+📌 **Used for cohort analysis:**
+- `orders.customer_id`
+- `orders.order_date`
+
+---
+
+## 🔄 Workflow
+1. Load data using Python
+2. Create tables in PostgreSQL
+3. Insert records
+4. Execute SQL queries
+5. Analyze cohort output
+6. Present insights using slides
+
+---
+
+## 📊 Slide-wise Analysis with Image Positions
+
+> 📌 Place slide screenshots inside an `images/` folder
+
+---
+
+### Slide 1: Cohort Analysis – SQL Based Analysis
+```md
+![Slide 1 – Title](images/slide_1_title.png)
