@@ -96,5 +96,24 @@ Tables imported into PostgreSQL:
 
 **Description:** This SQL query assigns customers to cohorts based on their first purchase month and tracks their activity across subsequent months.
 
+---
+
+# Cohort Analysis output
+
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort7.jpeg)
+
+This section presents the results of our **cohort analysis**, which tracks user engagement over time.
+
+## Overview
+- **Cohort Month:** The month when users first engaged with the platform.
+- **Months 1–5:** Subsequent months showing how many users from the original cohort returned or remained active.
+- **Purpose:** To understand **user retention trends** and identify patterns of engagement across cohorts.
+
+## Retention Table & Chart
+The table below summarizes **user retention** across months 1–5 for each cohort month, showing how many users who first joined in a given month continued to engage in subsequent months.
+
+The line chart visualizes these retention trends, making it easy to compare cohort performance over time. Peaks and drops in the lines highlight **which cohorts retained users better**, providing actionable insights for user engagement strategies.
+
+> From the chart, it is easy to see how user retention evolves over time for each cohort, helping us identify trends and patterns in engagement.
 
 
