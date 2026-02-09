@@ -67,7 +67,7 @@ Tables imported into PostgreSQL:
 
 ---
 
-### Churn Analysis
+## Churn Analysis
 
 ![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort5.jpeg)
 
@@ -76,3 +76,14 @@ Tables imported into PostgreSQL:
 **Insight:** These customers represent early-stage churn and highlight retention weaknesses.
 
 **Recommendation:** Businesses should target these users with re-engagement strategies to improve retention.
+
+---
+## Retention Analysis
+
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort6.jpeg)
+
+**Description:** This analysis identifies customers who placed orders in January 2025 and also returned in February 2025.
+
+**Insight:** These customers represent successfully retained users and indicate effective engagement strategies.
+
+**Recommendation:** Focus on strengthening relationships with retained customers to improve long-term customer lifetime value.
