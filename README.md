@@ -6,6 +6,7 @@
 
 **Author:** Naimur Rahman  
 **Affiliation:** MSc, BSc – Jagannath University, Dhaka  
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort1.jpeg)
 
 ---
 
