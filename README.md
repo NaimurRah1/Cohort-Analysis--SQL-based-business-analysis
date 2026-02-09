@@ -100,7 +100,7 @@ Tables imported into PostgreSQL:
 
 # Cohort Analysis output
 
-![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort8.jpeg)
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort9.jpeg)
 
 This section presents the results of our **cohort analysis**, which tracks user engagement over time.
 
