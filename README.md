@@ -92,7 +92,7 @@ Tables imported into PostgreSQL:
 
 ## Cohort Analysis Query
 
-![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort6.jpeg)
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort7.jpeg)
 
 **Description:** This SQL query assigns customers to cohorts based on their first purchase month and tracks their activity across subsequent months.
 
@@ -100,7 +100,7 @@ Tables imported into PostgreSQL:
 
 # Cohort Analysis output
 
-![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort7.jpeg)
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort8.jpeg)
 
 This section presents the results of our **cohort analysis**, which tracks user engagement over time.
 
