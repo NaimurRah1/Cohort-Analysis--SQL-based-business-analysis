@@ -67,12 +67,12 @@ Tables imported into PostgreSQL:
 
 ---
 
-## 📊 Slide-wise Analysis with Image Positions
+### Churn Analysis
 
-> 📌 Place slide screenshots inside an `images/` folder
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort5.jpeg)
 
----
+**Description:** This analysis identifies customers who purchased in January 2025 but did not return in February 2025, classifying them as churned customers.
 
-### Slide 1: Cohort Analysis – SQL Based Analysis
-```md
-![Slide 1 – Title](images/slide_1_title.png)
+**Insight:** These customers represent early-stage churn and highlight retention weaknesses.
+
+**Recommendation:** Businesses should target these users with re-engagement strategies to improve retention.
