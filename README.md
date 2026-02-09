@@ -132,3 +132,26 @@ This analysis identifies **customers who returned and made purchases in at least
 
 ---
 
+# Loyal Customers Analysis
+
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort10.jpeg)
+This dataset includes **customers who have been active for at least 3 months**, along with their purchasing information.  
+
+These customers can be classified as **loyal customers**, as they consistently return over time. Businesses can target them with **special discounts, reward programs, or exclusive benefits** to improve retention and increase long-term revenue.  
+
+## SQL Query Overview
+The query identifies customers who returned in **at least 3 different months** within the first five months after their first order. It also retrieves their **full name, email, and number of active months**.
+
+### Output Example
+| customer_id | full_name       | email               | number_of_month |
+|------------:|----------------|-------------------|----------------|
+| 101         | John Doe       | john@example.com  | 3              |
+| 205         | Jane Smith     | jane@example.com  | 4              |
+| 309         | Alice Johnson  | alice@example.com | 3              |
+
+## Insights
+- Loyal customers are highly engaged and likely to make repeated purchases.  
+- Targeting this group with **personalized offers** can increase **retention and lifetime value**.  
+- Tracking their activity helps identify **patterns in repeat purchasing behavior**.
+
+----
