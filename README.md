@@ -23,6 +23,7 @@ Python is used for data ingestion and table creation, while **PostgreSQL SQL que
 - Identify churned customers
 - Identify loyal customers (active for 3+ months)
 - Support data-driven business decisions
+![Slide 1 – Cohort Overview](https://raw.githubusercontent.com/NaimurRah1/Cohort-Analysis--SQL-based-business-analysis/main/coho/cohort2.jpeg)
 
 ---
 
